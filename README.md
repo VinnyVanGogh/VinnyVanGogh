@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Hi there, I'm Vinny!
 I love writing **Python**, **PowerShell**, and **Bash** scripts. I also dabble in **JS**, **React**, and web dev. On the backend, I’m passionate about **DevOps**, **CI/CD** (especially GitHub Actions), and building efficient workflows. 
