@@ -14,7 +14,7 @@ Cross-platform experience (macOS/Linux/Windows). Always exploring the intersecti
 📧 support@vinny-van-gogh.com | 💼 [LinkedIn](https://linkedin.com/in/vincevasile)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=dracula&no-frame=true&rank=B,A,AA,AAA,S,SS,SSS&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=dracula&no-frame=true&rank=B,A,AA,AAA,S,SS,SSS&column=5&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
