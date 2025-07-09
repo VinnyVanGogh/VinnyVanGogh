@@ -1,6 +1,16 @@
-# Hi there, I'm Vinny!
-I love writing **Python**, **PowerShell**, and **Bash** scripts. I also dabble in **JS**, **React**, and web dev. On the backend, I’m passionate about **DevOps**, **CI/CD** (especially GitHub Actions), and building efficient workflows. 
+## Hi, I'm Vince 👋
 
-When I’m not coding, you’ll find me tinkering with automation, containerizing projects, and exploring new tech. Feel free to check out my repos or reach out to collaborate!
+Applied AI Engineer | RPA & Automation @ Managed Solution
+
+I architect systems where AI and code work together. From enterprise SaaS to AI agent frameworks, I build production-grade solutions that push boundaries.
+
+**Current Focus**: Multi-tenant Django/React/Rails platform, AI-assisted development workflows  
+**Side Projects**: Codeagent (MCP for LLMs), Bassface (React Native), Custom AI tooling  
+**Languages**: Python, TypeScript, PowerShell, Bash, Ruby  
+**Specialties**: Multi-LLM coordination, enterprise automation, full-stack development
+
+Cross-platform experience (macOS/Linux/Windows). Always exploring the intersection of AI and software engineering.
+
+📧 support@vinny-van-gogh.com | 💼 [LinkedIn](https://linkedin.com/in/vincevasile)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=juicyfresh&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
