@@ -13,8 +13,6 @@ Cross-platform experience (macOS/Linux/Windows). Always exploring the intersecti
 
 📧 support@vinny-van-gogh.com | 💼 [LinkedIn](https://linkedin.com/in/vincevasile)
 
-![Vince's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnyVanGogh&show_icons=true&theme=dark)
-
-[![Vince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinnyVanGogh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnyVanGogh&show_icons=true&theme=dark) [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinnyVanGogh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=juicyfresh&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
