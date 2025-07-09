@@ -1,8 +1,10 @@
+<div align="center">
+
 ## Hi, I'm Vince ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-Applied AI Engineer | RPA & Automation @ Managed Solution
+**Applied AI Engineer | RPA & Automation @ Managed Solution**
 
-I architect systems where AI and code work together. From enterprise SaaS to AI agent frameworks, I build production-grade solutions that push boundaries.
+I architect systems where AI and code work together. From enterprise SaaS to AI agent frameworks,<br>I build production-grade solutions that push boundaries.
 
 **Current Focus**: Multi-tenant Django/React/Rails platform, AI-assisted development workflows  
 **Side Projects**: Codeagent (MCP for LLMs), Bassface (React Native), Custom AI tooling  
@@ -12,6 +14,8 @@ I architect systems where AI and code work together. From enterprise SaaS to AI 
 Cross-platform experience (macOS/Linux/Windows). Always exploring the intersection of AI and software engineering.
 
 📧 support@vinny-van-gogh.com | 💼 [LinkedIn](https://linkedin.com/in/vincevasile)
+
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=dracula&no-frame=true&rank=B,A,AA,AAA,S,SS,SSS&column=5&margin-w=15&margin-h=15" />
