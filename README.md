@@ -13,10 +13,15 @@ Cross-platform experience (macOS/Linux/Windows). Always exploring the intersecti
 
 📧 support@vinny-van-gogh.com | 💼 [LinkedIn](https://linkedin.com/in/vincevasile)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinnyVanGogh&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VinnyVanGogh&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyVanGogh&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyVanGogh&layout=compact&theme=dracula&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinnyVanGogh&theme=dracula&hide_border=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinnyVanGogh&theme=dracula&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=dracula&no-frame=true&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=dracula&no-frame=true&column=7" />
+</p>
