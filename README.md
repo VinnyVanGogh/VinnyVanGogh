@@ -13,4 +13,11 @@ Cross-platform experience (macOS/Linux/Windows). Always exploring the intersecti
 
 📧 support@vinny-van-gogh.com | 💼 [LinkedIn](https://linkedin.com/in/vincevasile)
 
+![Vince's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnyVanGogh&show_icons=true&theme=dark)
+
+[![Vince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinnyVanGogh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=juicyfresh&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
