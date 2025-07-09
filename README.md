@@ -23,5 +23,5 @@ Cross-platform experience (macOS/Linux/Windows). Always exploring the intersecti
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=dracula&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VinnyVanGogh&theme=dracula&no-frame=true&rank=B,A,AA,AAA,S,SS,SSS" />
 </p>
